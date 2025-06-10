@@ -41,13 +41,15 @@ A React-based frontend-only application simulating a role-based inventory manage
    git clone https://github.com/yourusername/slooze.git
    cd slooze
 
-Install dependencies
-  npm install
-
-Start the development server
-  npm run dev
-
-Login with any mock user and test role-based features.
+2. **Install dependencies**
+   ```bash
+   npm install
+   
+3. **Start the development server**
+   ```bash
+   npm run dev
+   
+4. **Login with any mock user and test role-based features.**
 
 
 
